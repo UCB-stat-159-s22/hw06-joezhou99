@@ -8,3 +8,5 @@ ligotools.egg-info/SOURCES.txt
 ligotools.egg-info/dependency_links.txt
 ligotools.egg-info/requires.txt
 ligotools.egg-info/top_level.txt
+ligotools/tests/__init__.py
+ligotools/tests/tests_readligo.py
