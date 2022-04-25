@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ligotools
+Version: 0.2
+Summary: A ligo library for tools to recreate their results
+Home-page: UNKNOWN
+Author: Ligo Scientific Collaboration (LSC) and Joe Zhou
+Author-email: joezhou23@berkeley.edu
+License: BSD 3-Clause License
+Keywords: tools,ligo
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
+
+## Fine-tuning reproduciblity of LIGO Black Hole signal tutorial, Part II
+
+** Add Binder badge and link here**
+
+**Note:** This repository is public so that Binder can find it. All code and data is based on the original [LIGO Center for Open Science Tutorial Repository](https://github.com/losc-tutorial/LOSC_Event_tutorial). This repository is a class exercise that restructures the original LIGO code for improved reproducibility, as a homework assignment for the [Spring 2022 installment of UC Berkeley's Stat 159/259 course, _Reproducible and Collaborative Data Science_](https://ucb-stat-159-s22.github.io). Authorship of the original analysis code rests with the LIGO collaboration.
+
+
