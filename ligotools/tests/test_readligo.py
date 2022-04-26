@@ -4,11 +4,11 @@ import json
 
 
 
-fnjson = "data/BBH_events_v3.json"
+fnjson = "/home/jovyan/HW/hw06-joezhou99/data/BBH_events_v3.json"
 events = json.load(open(fnjson,"r"))
 eventname = 'GW150914' 
 event = events[eventname]
-fn_H1 = "data/" + event['fn_H1'] 
+fn_H1 = "/home/jovyan/HW/hw06-joezhou99/data/" + event['fn_H1'] 
 strain_H1, time_H1, chan_dict_H1 = rl.loaddata(fn_H1, 'H1')
 
 def test_dim_channel_to_seglist():
