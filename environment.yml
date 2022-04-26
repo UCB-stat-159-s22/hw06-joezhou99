@@ -1,12 +1,14 @@
-name: ligo
+name: ligo-hw6
 
 channels:
   - conda-forge
-
+  - defaults
+  
 dependencies:
   - python=2.7
-  - ipykernel=4.8
-  - scipy=1.2
   - decorator=4.4
-  - h5py=2.10
+  - ipykernel=4.8
+  - numpy=1.16
+  - scipy=1.2
   - matplotlib=2.2
+  - h5py=2.10
