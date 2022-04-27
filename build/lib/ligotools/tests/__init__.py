@@ -1,4 +1,0 @@
-"""
-The ligotools.tests package.
-"""
-
