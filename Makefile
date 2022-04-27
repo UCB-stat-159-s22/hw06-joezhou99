@@ -26,4 +26,5 @@ html-hub:
 	cd _build/html 
 	python -m http.server
 	@echo "url:https://stat159.datahub.berkeley.edu/user-redirect/proxy/8000/index.html"
+	@echo "if error, please check to make sure you are running python >= 3.6 for this particular command"
 	
